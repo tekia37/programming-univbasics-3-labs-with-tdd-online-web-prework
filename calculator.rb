@@ -1,3 +1,5 @@
+first_number = 5
+
 if first_number = Integer
   puts "The first number is an integer"
  else first_number = Float
